@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-09T11:55:22.895Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36" etag="9MIZlMP9vKFqvLLR_lmm" version="13.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-09T11:57:42.838Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36" etag="8vkj5YAzq3DQQ3GUn1Hb" version="13.1.3" type="github">
   <diagram name="Page-1" id="9f46799a-70d6-7492-0946-bef42562c5a5">
     <mxGraphModel dx="1422" dy="1645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -124,14 +124,29 @@
             <mxGeometry x="370" y="110" width="180" height="120" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="ozthSqmPlwRFiOnR1lLT-50" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;endArrow=classic;endFill=1;" parent="1" source="ozthSqmPlwRFiOnR1lLT-2" target="ozthSqmPlwRFiOnR1lLT-9" edge="1">
+        <mxCell id="ozthSqmPlwRFiOnR1lLT-50" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;endArrow=classic;endFill=1;" parent="1" source="ozthSqmPlwRFiOnR1lLT-2" target="ozthSqmPlwRFiOnR1lLT-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pjsVTI8Hzno7POjZ78qc-10" value="访问" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ozthSqmPlwRFiOnR1lLT-50">
+          <mxGeometry x="-0.2145" y="-4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="ozthSqmPlwRFiOnR1lLT-51" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;endArrow=classic;endFill=1;" parent="1" source="ozthSqmPlwRFiOnR1lLT-2" target="ozthSqmPlwRFiOnR1lLT-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ozthSqmPlwRFiOnR1lLT-52" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;endArrow=classic;endFill=1;" parent="1" source="ozthSqmPlwRFiOnR1lLT-2" target="ozthSqmPlwRFiOnR1lLT-7" edge="1">
+        <mxCell id="pjsVTI8Hzno7POjZ78qc-9" value="访问" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ozthSqmPlwRFiOnR1lLT-51">
+          <mxGeometry x="-0.1765" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ozthSqmPlwRFiOnR1lLT-52" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;endArrow=classic;endFill=1;" parent="1" source="ozthSqmPlwRFiOnR1lLT-2" target="ozthSqmPlwRFiOnR1lLT-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pjsVTI8Hzno7POjZ78qc-8" value="访问" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ozthSqmPlwRFiOnR1lLT-52">
+          <mxGeometry x="-0.2084" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <object label="&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;证书认证系统&lt;/b&gt;&lt;/span&gt;" placeholders="1" name="External System Name" description="Description of Software System" id="pjsVTI8Hzno7POjZ78qc-5">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=#999999;fontColor=#FFFFFF;strokeColor=#828282;resizable=0;" vertex="1" parent="1">
