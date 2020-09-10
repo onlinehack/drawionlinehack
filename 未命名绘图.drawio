@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-09-10T02:28:48.404Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36" etag="6LSgFj733x4NLVXtyMm_" version="13.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-10T11:01:15.093Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36" etag="zdymLAoK9DNVky3rWuN0" version="13.6.9" type="github">
   <diagram name="Page-1" id="9f46799a-70d6-7492-0946-bef42562c5a5">
-    <mxGraphModel dx="1673" dy="1745" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="868" dy="1250" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,7 +10,7 @@
           </mxCell>
         </object>
         <object label="&lt;b&gt;账号源&lt;/b&gt;" placeholders="1" name="Software System Name" id="6W91TLGm9ux0VphlkoNZ-4">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#828282;fillColor=none;fontColor=#000000;align=left;labelPosition=center;verticalLabelPosition=middle;verticalAlign=bottom;dashed=1;strokeWidth=1;perimeterSpacing=0;spacing=2;spacingTop=0;fontSize=10;dashPattern=8 8;" vertex="1" parent="1">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#828282;fillColor=none;fontColor=#000000;align=left;labelPosition=center;verticalLabelPosition=middle;verticalAlign=bottom;dashed=1;strokeWidth=1;perimeterSpacing=0;spacing=2;spacingTop=0;fontSize=10;dashPattern=8 8;" parent="1" vertex="1">
             <mxGeometry x="635" y="-50" width="270" height="304" as="geometry" />
           </mxCell>
         </object>
@@ -35,7 +35,7 @@
         <mxCell id="ozthSqmPlwRFiOnR1lLT-39" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;" parent="1" source="ozthSqmPlwRFiOnR1lLT-6" target="ozthSqmPlwRFiOnR1lLT-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6W91TLGm9ux0VphlkoNZ-2" value="认证转发" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ozthSqmPlwRFiOnR1lLT-39">
+        <mxCell id="6W91TLGm9ux0VphlkoNZ-2" value="认证转发" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="ozthSqmPlwRFiOnR1lLT-39" vertex="1" connectable="0">
           <mxGeometry x="0.1694" y="5" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -50,7 +50,7 @@
             <mxPoint x="450" y="-80" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6W91TLGm9ux0VphlkoNZ-3" value="认证转发" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ozthSqmPlwRFiOnR1lLT-40">
+        <mxCell id="6W91TLGm9ux0VphlkoNZ-3" value="认证转发" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="ozthSqmPlwRFiOnR1lLT-40" vertex="1" connectable="0">
           <mxGeometry x="0.1277" y="4" relative="1" as="geometry">
             <mxPoint y="1" as="offset" />
           </mxGeometry>
@@ -63,7 +63,7 @@
         <mxCell id="ozthSqmPlwRFiOnR1lLT-38" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;dashed=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" parent="1" source="ozthSqmPlwRFiOnR1lLT-7" target="ozthSqmPlwRFiOnR1lLT-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6W91TLGm9ux0VphlkoNZ-1" value="认证转发" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ozthSqmPlwRFiOnR1lLT-38">
+        <mxCell id="6W91TLGm9ux0VphlkoNZ-1" value="认证转发" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="ozthSqmPlwRFiOnR1lLT-38" vertex="1" connectable="0">
           <mxGeometry x="0.2045" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -174,10 +174,13 @@
           </mxCell>
         </object>
         <object label="&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;LDAP/AD&lt;/b&gt;&lt;/span&gt;" placeholders="1" name="External System Name" description="Description of Software System" id="6W91TLGm9ux0VphlkoNZ-5">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=#999999;fontColor=#FFFFFF;strokeColor=#828282;resizable=0;" vertex="1" parent="1">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=#999999;fontColor=#FFFFFF;strokeColor=#828282;resizable=0;" parent="1" vertex="1">
             <mxGeometry x="675" y="110" width="180" height="120" as="geometry" />
           </mxCell>
         </object>
+        <mxCell id="BZnFVrmW7Yr-i7zsMhhM-2" value="Oauth2.SAML...&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;labelBackgroundColor=#ffffff;labelBorderColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="430" y="20" width="40" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
